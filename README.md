@@ -33,11 +33,14 @@
 
 ---
 
+---
+
 ### 🧠 I’m Currently Learning:
 - ✨ AI + ML Projects using **Scikit-learn**, **PyTorch**
 - 🔗 Blockchain from scratch: **Python Chain + Solidity Smart Contracts**
 - 🎯 Frontend Pro work: **React**, **Next.js**, **Tailwind CSS**
 
+---
 
 ### 📫 Let's Connect:
 <p align="left">
@@ -56,4 +59,3 @@
 > 🔥 “Work until your GitHub looks like a tech founder's portfolio.”
 
 ---
-
