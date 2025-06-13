@@ -38,22 +38,11 @@
 - 🔗 Blockchain from scratch: **Python Chain + Solidity Smart Contracts**
 - 🎯 Frontend Pro work: **React**, **Next.js**, **Tailwind CSS**
 
----
-
-### 🚀 Featured Projects:
-- **🧠 AI Content Repurposer** – Blog → Tweet Threads → LinkedIn Post Generator
-- **🔗 Build Your Own Blockchain** – Python Chain with PoW & Mining
-- **📹 Video Object Remover** – Remove anything from webcam using OpenCV
-- **📊 Resume Ranker** – Upload Resume → AI gives job match & suggestions
-
-> Want to explore these? Check my pinned repos below 👇
-
----
 
 ### 📫 Let's Connect:
 <p align="left">
   <a href="https://linkedin.com/in/anupam-tiwari-08607b281" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="anupam's linkedin"/></a>
-  <a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:tiwarianupam11421@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
