@@ -9,6 +9,8 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=Anupam11421&color=blue)
+
 ## 📚 About Me
 
 - 🎓 B.Tech CSE Student | Passionate about building impactful tech
@@ -43,12 +45,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (With Previews)
 
-### 🔥 [Book Store AI App](https://github.com/Anupam11421/book-store-ai-app)
+### 🔥 Book Store AI App
+[![Book Store](https://github.com/Anupam11421/book-store-ai-app/raw/main/screenshots/gui.png)](https://github.com/Anupam11421/book-store-ai-app)
 > AI-powered desktop app with login/signup, SQLite backend, Matplotlib analytics, and GPT-based book suggestions.
 
-### 🧠 [Distrack](https://github.com/Anupam11421/distrack)
+### 🧠 Distrack
+[![Distrack](https://raw.githubusercontent.com/Anupam11421/distrack/main/screenshot.png)](https://github.com/Anupam11421/distrack)
 > Productivity tool with intelligent tracking and local analytics for students and focus lovers.
 
 ---
@@ -58,6 +62,14 @@
 ![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupam11421&show_icons=true&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Anupam11421&theme=radical&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam11421&layout=compact&theme=radical)
+
+---
+
+## 🌐 My GitHub Portfolio Website
+
+> Visit: [https://anupam11421.github.io/](https://anupam11421.github.io/) 💼
+
+Powered by GitHub Pages from this very README — it's like a personal homepage.
 
 ---
 
