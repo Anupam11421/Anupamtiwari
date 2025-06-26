@@ -1,11 +1,11 @@
+# 👋 Hi, I'm Anupam Tiwari
+
+🚀 AI Developer | Python Enthusiast | Open-Source Contributor
+
 <!-- Animated Typing Effect for Profile Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=AI+Developer+%7C+Open-Source+Enthusiast+%7C+Blockchain+Learner;Python+%7C+ML+%7C+SaaS+Builder+%7C+React+%7C+Firebase;Always+Building+Something+Meaningful..." alt="Typing SVG" />
 </p>
-
-# 👋 Hi, I'm Anupam Tiwari
-
-🚀 AI Developer | Python Enthusiast | Open-Source Contributor
 
 ---
 
